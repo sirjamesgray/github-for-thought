@@ -5,3 +5,5 @@ GitHub for just regular writings, where your notes are [version-controlled](http
 Similar to how you can sponsor a GitHub project, each page on WeWrite has a floating [Donation Bar](https://wewrite-app.notion.site/Donation-bar-25b3fe60b7fe4eb0b6afe6da802a8906)
 
 Please become a supporter today so we can accelerate development! https://opencollective.com/wewrite-app 
+
+Why not just put a bunch of .MD files into GitHub? Because I want WeWrite to be for normies. Apple Notes has no onboarding. Setting up Obsidian by itself is incredibly clunky. Add to that the complexity of putting it up on GitHub. Not user-friendly at all. It needs to be easy for grandma. 
