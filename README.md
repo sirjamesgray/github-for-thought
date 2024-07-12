@@ -14,4 +14,4 @@ Please become a supporter today so we can accelerate development! https://openco
 
 Why not just put a bunch of .MD files into GitHub? Because I want WeWrite to be for normies. Apple Notes has no onboarding. Setting up Obsidian by itself is incredibly clunky. Add to that the complexity of putting it up on GitHub. Not user-friendly at all. It needs to be easy for grandma. 
 
-More FAQs coming soon 
+Also Markdown sucks. If someone has to learn it, it's a barrier to entry. Apple Notes again does not force you to learn some ghetto markup language. 
