@@ -6,7 +6,7 @@ Similar to how you can sponsor a GitHub project, each page on WeWrite has a floa
 
 Read about all of our main features [here!](https://wewrite-app.notion.site/ae3678a8bac048cfae8c773bf755588f?v=a9f37e3f9a904b809cf101f4da1e2349)
 
-# Support us
+# [Support us](https://opencollective.com/wewrite-app)
 
 Please become a supporter today so we can accelerate development! https://opencollective.com/wewrite-app 
 
